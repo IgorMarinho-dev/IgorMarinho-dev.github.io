@@ -11,7 +11,7 @@ export const projects: Project[] = [
       'Alertas de estoque baixo',
       'Controle e histórico de movimentações (entrada/saída)',
     ],
-    tech: ['TypeScript', 'React', 'Node.js', 'Prisma'],
+    tech: ['TypeScript', 'React', 'Node.js', 'Prisma', 'PostgreSQL'],
     repoUrl: 'https://github.com/IgorMarinho-dev/Stock-manager-FullStack',
   },
   {
