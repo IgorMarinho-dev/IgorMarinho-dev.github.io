@@ -1,6 +1,7 @@
 export const profile = {
     name: 'Igor Marinho dos Santos Silva',
     role: 'Desenvolvedor Full Stack',
+      tagline: 'Estudante de Ciência da Computação construindo aplicações web com TypeScript, React e Node.js.',
     github: 'https://github.com/IgorMarinho-dev',
     linkedin: 'https://www.linkedin.com/in/igor-marinho-842300373/',
     email: 'contato.igormarinho083@gmail.com',
