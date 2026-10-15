@@ -23,7 +23,7 @@ export const projects: Project[] = [
       'Paginação numérica com navegação direta',
       'Estados de loading, erro e vazio tratados individualmente',
     ],
-    tech: ['Frontend', 'OverFast API'], // ajuste com a stack real do projeto
+    tech: ['React', 'Tailwind CSS', 'Vite', 'JavaScript', 'OverFast API'], // ajuste com a stack real do projeto
     repoUrl: 'https://github.com/IgorMarinho-dev/wsFrontend-Fabrica26.2',
   },
   {
@@ -36,7 +36,7 @@ export const projects: Project[] = [
       'Dashboard do usuário com estatísticas e gêneros favoritos',
       'Área administrativa para títulos e usuários',
     ],
-    tech: ['PHP'], // adicione banco e demais tecnologias usadas
+    tech: ['PHP', 'MySQL', 'JavaScript', 'Bootstrap'], // adicione banco e demais tecnologias usadas
     repoUrl: 'https://github.com/IgorMarinho-dev/Projeto_Cinetrack',
   },
 ]
